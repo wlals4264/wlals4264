@@ -43,8 +43,8 @@
 
 <h3 align="center">💻 Statics 💻</h3>
 <div align="center">
-<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=wlals4264&show_icons=true&theme=buefy" height="200px" />
-<img alt="top_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlals4264&layout=compact&theme=buefy" height="200px" />
+<img alt="stats" src="https://github-readme-stats.vercel.app/api?username=wlals4264&show_icons=true&theme=buefy" weight="45%" />
+<img alt="top_lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wlals4264&layout=compact&theme=buefy" weight="45%" height="195px" />
 </div>
 
 <br>
